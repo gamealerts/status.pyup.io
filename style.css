@@ -83,9 +83,13 @@ img {
 }
 
 .navigation .img {
-	position: relative;
-	top: .3rem;
-	height: 2.0rem;
+    position: relative;
+    top: 1rem;
+    height: 3.4rem;
+}
+
+.title{
+    visibility:hidden;
 }
 .navigation .title,
 .navigation-title {
